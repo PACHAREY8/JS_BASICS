@@ -1,0 +1,23 @@
+{
+    "Stock":
+    [
+        {
+            "stock_name":"ABB India Ltd",
+            "share_num": 500,
+            "Share_price":1400
+        },
+        {
+            "stock_name":"Bosch Ltd.",
+            "share_num": 1000,
+            "Share_price":9000
+        },
+        {
+            "stock_name":"DLF Ltd.",
+            "share_num": 600,
+            "Share_price":300
+        }
+
+    ]
+
+    
+}

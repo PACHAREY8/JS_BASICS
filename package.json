@@ -1,0 +1,19 @@
+{
+  "name": "mochatestcase",
+  "version": "1.0.0",
+  "description": "simple app for testing ",
+  "main": "testcoin.js",
+  "scripts": {
+    "test": "mocha || true"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^6.1.4"
+  },
+  "dependencies": {
+    "commander": "^2.20.0",
+    "prompt-sync": "^4.1.6"
+  }
+}

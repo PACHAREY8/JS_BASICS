@@ -1,0 +1,24 @@
+{
+    
+        "Rice":[
+            {"type":"Basmati" ,   "weight":"1 kg" , "rate" :"100"},
+            {"type":"Brown rice" ,"weight":"1 kg" , "rate" :"200"},
+            {"type":"Kolam" ,     "weight":"1 kg" , "rate" :"60"},
+            {"type":"Hmt" ,        "weight":"1 kg", "rate" :"80"}
+               ],
+        "Pulses":[
+            {"type":"Beans" ,  "Weight" :"1 kg", "rate":"100"},
+            {"type":"Lentils", "Weight" :"1 kg", "rate":"80"},
+            {"type":"lupins" , "Weight" :"1 kg", "rate":"90"},
+            {"type":"peas" ,   "Weight" :"1 kg", "rate":"50"}
+                ],
+        "Wheat":[
+            {"type":"Emmer",    "weight":"1 kg", "rate":"120"},
+            {"type":"spelt",    "weight":"1 kg", "rate":"80"},
+            {"type":"Triticale","weight":"1 kg", "rate":"220"},
+            {"type":"Einkorn",  "weight":"1 kg", "rate":"85"}
+                ]
+
+            
+    
+}

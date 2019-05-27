@@ -1,0 +1,24 @@
+{
+    
+    "Rice":[
+        {"type":"Basmati" ,    "rate" :"100"},
+        {"type":"Brown rice",  "rate" :"200"},
+        {"type":"Kolam" ,      "rate" :"60"},
+        {"type":"Hmt" ,        "rate" :"80"}
+           ],
+    "Pulses":[
+        {"type":"Beans" ,   "rate":"60"},
+        {"type":"Lentils",  "rate":"80"},
+        {"type":"lupins" ,  "rate":"90"},
+        {"type":"peas" ,    "rate":"50"}
+            ],
+    "Wheat":[
+        {"type":"Emmer",     "rate":"120"},
+        {"type":"spelt",     "rate":"80"},
+        {"type":"Triticale", "rate":"220"},
+        {"type":"Einkorn",   "rate":"85"}
+            ]
+
+        
+
+}
